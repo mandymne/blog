@@ -24,3 +24,8 @@ Pored svih negativnih glasina koje kruže o čokoladi  (da uzrokuje akne, podiž
 
 **Koja je vaša omiljena čokolada?**
 
+
+Izvor:
+
+http://www.ihis-nutricionizam.rs/
+
