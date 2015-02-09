@@ -15,3 +15,17 @@ Podaci o nutrijentima na deklaraciji najčešće se odnose na **jedno serviranje
 **Hranjiva vrijednost** nam govori koliko je hranjivih sastojaka sadržano u 100 g, 100 ml ili po jedinici serviranja datog proizvoda. Ti podaci su obično navedeni tablično, a sadrže istaknute informacije o **energetskoj vrijednosti** namirnice, te o količini **bjelančevina**, **ugljenih hidrata** i **masti**. Uz ove informacije, deklaracija može sadržati i podatke o količini **jednostavnih šećera**, **zasićenih masnih kiselina**, **vlakana** i **natrijuma**. Takođe mogu biti prisutna informacija o sadržaju skroba, [piliola] (http://www.tehnologijahrane.com/enciklopedija/primena-poliola-u-konditorskoj-industriji), jednostruko nezasićenih masnih kiselina, višestruko nezasićenih masnih kiselina, **holesterola** te bilo kojeg **minerala** ili **vitamina** ako se nalaze u značajnoj količini, odnosno **čine bar 15% preporučenog dnevnog unosa**. Pored navedene količine vitamina, naznačena je i **RDA vrijednost** koja pruža informaciju o postotku unesenih vitamina i minerala u odnosu na preporučene vrijednosti.
 
 Vodeći se činjenicom da mnogi vas ne čitaju deklaracije, a među onima koji ih čitaju ima dosta onih koji ih ne razumiju u potpunosti, odlučili smo da se u narednom serijalu tekstova na ovu temu potrudimo približiti pojmove koje najčešće srijećemo na prehrambenim proizvodima koje konzumiramo.
+
+
+
+Izvor:
+
+http://www.ihis-nutricionizam.rs/
+
+http://www.apos.org.rs/cms/index.php/sr/vesti/1-latest/630-istraivanje-apos-a-ihis-nutricionizma-koliko-potroai-razumeju-deklaracije-prehrambenih-proizvoda.html
+
+http://dijabetickaprehrana.blogspot.com/search/label/ugljikohidrati?updated-max=2012-05-26T15:00:00-07:00&max-results=20&start=2&by-date=false
+
+http://www.zdravobudi.hr/10376/kako-citati-deklaracije-na-prehrambenim-proizvodima
+
+http://dijabetickaprehrana.blogspot.com/2012/05/kako-citati-deklaracije-na-namirnicama.html
