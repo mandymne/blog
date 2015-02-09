@@ -1,6 +1,6 @@
 #Kako pravilno čitati deklaracije na proizvodima?
 
-*Kalorije, aditivi, masti, vitamini… To su samo neki od pojmova koje srijećemo na deklaracijama namirnica. Znate li ih pravilno čitati?*
+*Kalorije, aditivi, masti, vitamini…To su samo neki od pojmova koje srijećemo na deklaracijama namirnica. Znate li ih pravilno čitati?*
 
 U predhodnom postu govorili smo malo o bitnosti deklaracije i njenom razumijevanju. Činjenica je da potrošači rijetko obraćaju pažnju na deklaraciju kao i da često ne razumiju podatke koji su im dostupni. U namjeri da vam približimo i pojasnimo određene nutritivne podatke na proizvodima, odnosno one koji se uobičajeno nalaze na deklaracijama namirnica, nastavljamo serijal tekstova na ovu temu.
 
@@ -48,6 +48,23 @@ Neki prehrambeni aditivi moraju se unositi u ograničenim količinama i zato je 
 RDA (Recommended Daily Allowances) je standard kojim se propisuju preporučene dnevne količine vitamina i minerala potrebne za uravnoteženu ishranu. Te brojčane vrijednosti obično su navedene u stupcu pored količina vitamina i minerala koje su prisutne u 100 g određenog proizvoda i izražene su kao postotak. Primjera radi, ako uz vrijednost vitamina A u stupcu koji navodi RDA stoji 80% - to znači da će se unosom 100 g te namirnice podmiriti 80 % dnevnih potreba za vitaminom A. GDA (Guideline Daily Amounts) je vodič koji pokazuje koliko kilo kalorija i hranjivih vrijednosti (bjelančevina, ugljenih hidrata, šećera, masti, zasićenih masnih kiselina, vlakana i soli) sadrži određena količina hrane (obrok) u odnosu na referentni dnevni unos od 2000 kcal. Oznaka GDA odnosno preporučeni dnevni unos kalorija na hrani pomaže potrošaču da izbjegava prekomjernu konzumaciju određene hrane, te mu omogućava da svakodnevno vodi brigu o uravnoteženoj ishrani i održavanju normalne tjelesne težine.
 
 *Prilikom čitanja deklaracija posebno treba obratiti pažnju na oznake za postotak preporučenog dnevnog unosa nutrijenata (%RDA). Postoci preporučenih dnevnih vrijednosti (RDA) prikazani su na osnovu dnevnog energetskog unosa od 2000 kcal, koji daje dovoljno dobre smjernice za većinu ljudi (odrasle i djecu stariju od četiri godine). Oni nam ukazuju na to koliki udio preporučenog dnevnog unosa pojedinog nutrijenta ili energije unosimo konzumiranjem jednog serviranja (ili 100 g) dotičnog proizvoda. Dakle*, **čitajte deklaracije na proizvodima i birajte proizvode s niskim postotkom preporučenog dnevnog unosa ukupnih i zasićenih masti, natrijuma i jednostavnih šećera, a visokim postotkom ukupnih ugljenih hidrata, biljnih vlakana, vitamina i minerala.**
+
+
+
+
+
+Izvor:
+
+http://dijabetickaprehrana.blogspot.com/2012/05/kako-citati-deklaracije-na-namirnicama.html
+
+http://www.zdravobudi.hr/10376/kako-citati-deklaracije-na-prehrambenim-proizvodima
+
+http://www.nestle.ba/asset-library/documents/zdravo_ba.pdf
+
+http://www.tportal.hr/lifestyle/zdravlje/227968/Znate-li-citati-deklaracije-na-namirnicama.html
+
+
+
 
 
 
