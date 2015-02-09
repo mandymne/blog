@@ -25,7 +25,18 @@ Pored svih negativnih glasina koje kruže o čokoladi  (da uzrokuje akne, podiž
 **Koja je vaša omiljena čokolada?**
 
 
+
+
+
+
 Izvor:
 
 http://www.ihis-nutricionizam.rs/
+
+http://www.cokolada.co.rs/
+
+https://vitaminiizdravahrana.wordpress.com/category/zdrava-ishrana/
+
+http://www.nezavisne.com/zivot-stil/zdravlje/Cokolada-je-nesto-najgore-za-djecu-221000.html
+
 
