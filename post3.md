@@ -38,3 +38,22 @@ Jasno je da čitanje deklaracija na proizvodima mora preći potrošačima u navi
 
 
 
+
+
+
+Izvor:
+
+http://www.ihis-nutricionizam.rs/
+
+http://stajedemo.com/
+
+http://arhiva.24sata.rs/vesti/ekonomija/vest/evo-zasto-je-vazno-da-citate-deklaracije-na-proizvodima/154831.phtml
+
+http://www.zdravobudi.hr/
+
+http://www.politika.rs/rubrike/potrosac/U-vocnim-sokovima-secera-koliko-i-u-gaziranim.sr.htm
+
+
+
+
+
